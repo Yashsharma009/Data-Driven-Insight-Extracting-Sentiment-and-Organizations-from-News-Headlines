@@ -1,0 +1,2 @@
+# Data-Driven-Insight-Extracting-Sentiment-and-Organizations-from-News-Headlines
+Extracted sentiment &amp; organizations from CNBC &amp; Google News headlines using BeautifulSoup, Selenium, Hugging Face, and NER. Visualized trends with Pandas, Seaborn, and WordCloud; exported insights to CSV &amp; Google Sheets. Technologies: Python, BeautifulSoup, Selenium, Pandas, Hugging Face Transformers, Seaborn, WordCloud, Google Sheets API.
